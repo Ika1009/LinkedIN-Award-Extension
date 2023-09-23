@@ -1,0 +1,22 @@
+{
+    "manifest_version": 3,
+    "name": "LinkedIn Awards Removal",
+    "version": "1.0",
+    "description": "An extension to hide/show LinkedIn awards.",
+    "action": {
+      "default_popup": "popup.html"
+    },
+    "permissions": [
+        "activeTab",
+        "storage",
+        "tabs"
+      ],
+    "content_scripts": [{
+        "matches": ["*://www.linkedin.com/*"],
+        "js": ["content.js"]
+      }],
+    "background": {
+      "service_worker": "background.js"
+    }
+  }
+  
