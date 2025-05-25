@@ -2,7 +2,7 @@
 ### [🌐 Visit Official Website](https://theadawardblocker.com/)
 
 ## Watch the promo video by clicking on the image below
-[![Watch the promo video](promo1.png)](https://videopress.com/v/ZrVRsX7Z)
+[![Watch the video](https://theadawardblocker.com/wp-content/uploads/2024/05/trythis.jpg)](https://videopress.com/v/ZrVRsX7Z)
 
 ## 🏆 An Award-Winning Extension (Ironically)
 
@@ -30,6 +30,8 @@ Using a blend of **AI**, **ML**, and a curated list of 10,000+ LinkedIn award po
 - 🧠 It identifies award-related keywords like “delighted,” “honoured,” “humbled,” and “thrilled”
 - ✨ It hides award announcements without disrupting your feed
 - 🔁 Toggle the feature on/off anytime based on your mood or mindset
+
+[![Watch the promo video](promo1.png)
 
 ---
 
