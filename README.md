@@ -1,6 +1,7 @@
 # 🧠 The Ad (Award) Blocker – LinkedIn Mental Health Extension  
 ### [🌐 Visit Official Website](https://theadawardblocker.com/)
 
+## Watch the promo video by clicking on the image below
 [![Watch the promo video](promo1.png)](https://videopress.com/v/ZrVRsX7Z)
 
 ## 🏆 An Award-Winning Extension (Ironically)
