@@ -30,6 +30,8 @@ Using a blend of **AI**, **ML**, and a curated list of 10,000+ LinkedIn award po
 - ✨ It hides award announcements without disrupting your feed
 - 🔁 Toggle the feature on/off anytime based on your mood or mindset
 
+![Promo Image](promo1.png)
+
 ---
 
 ## 🔧 Features
