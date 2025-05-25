@@ -1,13 +1,13 @@
 # 🧠 The Ad (Award) Blocker – LinkedIn Mental Health Extension  
 ### [🌐 Visit Official Website](https://theadawardblocker.com/)
 
-[Promo Video](https://github.com/user-attachments/assets/92cdc49b-824c-431a-b55c-82ccead1b87c)
-
 ## 🏆 An Award-Winning Extension (Ironically)
 
 **The Ad (Award) Blocker** is a Chrome extension built to bring peace of mind to creatives during award season — by hiding those overwhelming “I’m delighted to announce…” posts on LinkedIn.
 
 This ironically award-winning tool was made with mental health in mind, offering a gentle, toggleable escape for advertising professionals facing **imposter syndrome** or **award FOMO**.
+
+[Promo Video](https://github.com/user-attachments/assets/2a452f3a-7317-4d14-9884-43a4fedaac66)
 
 ---
 
